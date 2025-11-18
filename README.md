@@ -29,7 +29,8 @@ chmod +x harvester-memory-calc.sh
 
 ### Method 1: Direct Download
 ```bash
-wget https://raw.githubusercontent.com/yourusername/harvester-memory-calc/main/harvester-memory-calc.sh
+wget [https://raw.githubusercontent.com/garfieldwtf/harvester-memory-calc/main/harvester-memory-calc.sh](https://github.com/garfieldwtf/harvester-reserve-memory-calc/blob/5c8efdf2b697de81d3a839d3ca61437e65cd9aeb/harvester-memory-calc.sh
+)
 chmod +x harvester-memory-calc.sh
 ```
 
